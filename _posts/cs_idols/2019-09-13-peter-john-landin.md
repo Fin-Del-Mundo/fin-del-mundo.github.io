@@ -21,10 +21,10 @@ I found this name quite familiar since I read his paper "The mechanical evaluati
 
 Besides of that, his contributions also include:
 
-- on ALGO definition
-- [ISWIM](https://en.wikipedia.org/wiki/ISWIM) programming language
-- [off-side rule](https://en.wikipedia.org/wiki/Off-side_rule), known as "indentation-based" syntax nowadays, popularized by Miranda, Haskell, Python, etc.
-- coin the term [syntactic sugar](https://en.wikipedia.org/wiki/Syntactic_sugar)
+* on ALGO definition
+* [ISWIM](https://en.wikipedia.org/wiki/ISWIM) programming language
+* [off-side rule](https://en.wikipedia.org/wiki/Off-side_rule), known as "indentation-based" syntax nowadays, popularized by Miranda, Haskell, Python, etc.
+* coin the term [syntactic sugar](https://en.wikipedia.org/wiki/Syntactic_sugar)
 
 He was much influenced by a study of McCarthy's LISP and taught [Tony Hoare](https://en.wikipedia.org/wiki/Tony_Hoare) ALGO with Peter Naur and Edsger W. Dijkstra. (Oh yes, definitely 4 more people to write).
 
